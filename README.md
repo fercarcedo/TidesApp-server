@@ -1,2 +1,2 @@
 # TidesApp-server
-TidesApp server data for Spanish tide information
+TidesApp static API for Spanish tide information
