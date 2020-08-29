@@ -79,7 +79,7 @@
                 "lat": 43.2633222,
                 "lng": -2.951074
             },
-            "photo": "https://tidesapp.netlify.com/ports/bilbao.webp"
+            "photo": "https://tidesapp.netlify.com/img/bilbao.webp"
         },
         {
             "name": "Bonanza",
@@ -367,7 +367,7 @@
                 "lat": 43.5299827,
                 "lng": -6.7101096
             },
-            "photo": "https://tidesapp.netlify.com/ports/navia.webp"
+            "photo": "https://tidesapp.netlify.com/img/navia.webp"
         },
         {
             "name": "Pasajes",
@@ -610,7 +610,7 @@
                 "lat": 42.5950449,
                 "lng": -8.7872273
             },
-            "photo": "https://tidesapp.netlify.com/img/vilagarcia.webp"
+            "photo": "https://tidesapp.netlify.com/img/villagarcia.webp"
         }
     ]
 }
